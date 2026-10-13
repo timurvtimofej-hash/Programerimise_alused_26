@@ -55,7 +55,7 @@ vanus = 17
 print("Vanus: " + str(vanus))
 
 
-# math mooduli kasutamine
+# math mooduli kasutamine ....
 print("Pii väärtus:", math.pi)
 print("√16 =", math.sqrt(16))
 print("sin(π/2) =", math.sin(math.pi / 2))
